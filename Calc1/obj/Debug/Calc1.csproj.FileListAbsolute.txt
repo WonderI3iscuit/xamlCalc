@@ -1,0 +1,15 @@
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\MainWindow.g.cs
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\App.g.cs
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1_MarkupCompile.cache
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1_MarkupCompile.lref
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\MainWindow.baml
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.g.resources
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.cache
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\mcelhinny_benjamin\source\repos\Calc1\Calc1\obj\Debug\Calc1.pdb
